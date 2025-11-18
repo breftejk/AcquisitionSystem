@@ -2,9 +2,9 @@
 
 Image acquisition system with multiple data sources and image processing algorithms.
 
-![Camera Demo Screenshot](./images/Screenshot 2025-11-18 at 07.55.33.png)
+![Camera Demo Screenshot](./images/Screenshot%202025-11-18%20at%2007.55.33.png)
 
-![DICOM Demo Screenshot](./images/Screenshot 2025-11-18 at 07.59.01.png)
+![DICOM Demo Screenshot](./images/Screenshot%202025-11-18%20at%2007.59.01.png)
 
 ## Features
 
